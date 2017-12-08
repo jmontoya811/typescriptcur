@@ -8,7 +8,7 @@
     "sourceMap": true
   },
   "files": [
-    "typealoop.ts"  ]
+    "inherit_this.ts"  ]
 }
 
 //sudo typings install dt~es6-promise dt~es6-collections --global --save

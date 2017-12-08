@@ -1,4 +1,4 @@
-Interface InvoiceFunc {
+interface InvoiceFunc {
   (name : string, total : number) : void;
 }
 

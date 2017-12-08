@@ -1,8 +1,3 @@
-Interface;
-InvoiceFunc;
-{
-    (function (name, total) { return ; });
-}
 var myInvoice;
 myInvoice = function (n, t) {
     console.log(n);
